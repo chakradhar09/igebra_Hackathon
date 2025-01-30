@@ -45,7 +45,5 @@ The AI-Powered Learning Dashboard is a web application designed to enhance perso
 - **Deployment**: How to deploy the app to Vercel for hosting.
 - **Usage**: How users can interact with the app once it's running.
 - **Screenshots**: Example images of the app (you can update the paths).
-- **Contributing**: Instructions on how others can contribute to the project.
-- **License**: MIT License for open-source sharing.
-- **Acknowledgments**: Credit to the tools, libraries, and services used in building the app.
+
 
